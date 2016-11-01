@@ -54,6 +54,11 @@ a:link, a:visited, a:hover, a:active {
     color: black;
 }
 
+html, body {
+    min-height: 100% !important;
+    height: 100%;
+}
+
 header h1,h2{
     color: white;
 }
@@ -278,6 +283,11 @@ iframe {
 
 .related_item:hover{
     background-color: #cbc9c9;
+}
+
+#disqus_thread, .comments{
+    width: 100%;
+    position: relative;
 }
 
 @media only screen and (max-width: 920px) {
