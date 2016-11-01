@@ -6,7 +6,7 @@
         <meta property="og:url"           content="" />
         <link rel="shortcut icon" href="" type="image/x-icon">
         <link rel="icon" href="" type="image/x-icon">   
-        <link rel="stylesheet" type="text/css" href="../css/style.css">
+        <link rel="stylesheet" type="text/css" href="../css/style.css?version=0001">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script src="../js/main.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
@@ -28,7 +28,7 @@
         </header>
         <div id="frame"></div>
         <script>
-            $('#frame').append('<iframe src="http://'+ getUrlParameter('game') +'"></iframe>');
+            $('#frame').append('<iframe id="iframe" src="http://'+ getUrlParameter('game') +'"></iframe>');
         </script>
     </body>
 </html>
