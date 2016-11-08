@@ -219,6 +219,87 @@
   </image:image>      
 </url>
 <url>
+  <loc>http://www.juegosio.es/juego/bonk.io.html</loc>
+  <lastmod>2016-11-08T14:18:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <image:image>
+      <image:loc>http://www.juegosio.es/img/bonk.io.jpg</image:loc>
+      <image:title>bonk.io</image:title>
+  </image:image>      
+</url>   
+<url>
+  <loc>http://www.juegosio.es/juego/gunr.io.html</loc>
+  <lastmod>2016-11-08T14:18:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <image:image>
+      <image:loc>http://www.juegosio.es/img/gunr.io.jpg</image:loc>
+      <image:title>gunr.io</image:title>
+  </image:image>      
+</url> 
+<url>
+  <loc>http://www.juegosio.es/juego/mope.io.html</loc>
+  <lastmod>2016-11-08T14:18:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <image:image>
+      <image:loc>http://www.juegosio.es/img/mope.io.jpg</image:loc>
+      <image:title>mope.io</image:title>
+  </image:image>      
+</url> 
+<url>
+  <loc>http://www.juegosio.es/juego/hordes.io.html</loc>
+  <lastmod>2016-11-08T14:18:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <image:image>
+      <image:loc>http://www.juegosio.es/img/hordes.io.jpg</image:loc>
+      <image:title>hordes.io</image:title>
+  </image:image>      
+</url> 
+<url>
+  <loc>http://www.juegosio.es/juego/superorbit.io.html</loc>
+  <lastmod>2016-11-08T14:18:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <image:image>
+      <image:loc>http://www.juegosio.es/img/superorbit.io.jpg</image:loc>
+      <image:title>superorbit.io</image:title>
+  </image:image>      
+</url> 
+<url>
+  <loc>http://www.juegosio.es/juego/tankwars.io.html</loc>
+  <lastmod>2016-11-08T14:18:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <image:image>
+      <image:loc>http://www.juegosio.es/img/tankwars.io.jpg</image:loc>
+      <image:title>tankwars.io</image:title>
+  </image:image>      
+</url> 
+<url>
+  <loc>http://www.juegosio.es/juego/wilds.io.html</loc>
+  <lastmod>2016-11-08T14:18:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <image:image>
+      <image:loc>http://www.juegosio.es/img/wilds.io.jpg</image:loc>
+      <image:title>wilds.io</image:title>
+  </image:image>      
+</url> 
+<url>
+  <loc>http://www.juegosio.es/juego/kingz.io.html</loc>
+  <lastmod>2016-11-08T14:18:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <image:image>
+      <image:loc>http://www.juegosio.es/img/kingz.io.jpg</image:loc>
+      <image:title>kingz.io</image:title>
+  </image:image>      
+</url> 
+<url>
+  <loc>http://www.juegosio.es/juego/bellum.io.html</loc>
+  <lastmod>2016-11-08T14:18:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <image:image>
+      <image:loc>http://www.juegosio.es/img/bellum.io.jpg</image:loc>
+      <image:title>bellum.io</image:title>
+  </image:image>      
+</url>     
+<url>
   <loc>http://www.juegosio.es/politicadeprivacidad.html</loc>
   <lastmod>2016-11-02T14:18:40+00:00</lastmod>
   <changefreq>weekly</changefreq>
